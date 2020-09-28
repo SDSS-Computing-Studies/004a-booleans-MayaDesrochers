@@ -10,3 +10,14 @@
 # - "positive"
 # - "negative"
 # - "zero"
+a=input("Enter number")
+a=float(a)
+b=0
+if a > b: 
+    print("postive")
+
+if a < b: 
+    print("negative")
+    
+if a == b:
+    print("zero")
