@@ -25,11 +25,11 @@ b=1000
 if a >= b: 
     print("3")
 
-elif a in range(100,1000):
+elif a >100<=1000:
     print("2")
 
-elif a in range(10,100):
+elif a >=10<=100:
     print("1")
 
-elif a in range(0,100):
+elif a >=0<=100:
     print("0")
